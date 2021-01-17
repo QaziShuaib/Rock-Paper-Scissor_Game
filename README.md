@@ -1,13 +1,13 @@
 # Rock-Paper-Scissor_Game
  C Project of the common game of Rock, Paper and Scissors.
 
-It is a non GUI enabled game, designed in first year of engineering.
+It is a non GUI enabled game, designed in first year of engineering, by Qazi Shuaib.
 
 Here, you will have a bot- "Moon", to play against the user.
-Computer will ask for the user's choices in terms of Rock, Paper an Scissor.
+Computer will ask for the user's choices in terms of Rock, Paper or Scissor.
 And, Moon will choose according to his own will(or algorithms, I should say! 😉).
 
-The winner will be decided on the basis of best three games in a Matcg
+The winner will be decided on the basis of best three games in a Match.
 
 Try it out!
 Good Luck!
