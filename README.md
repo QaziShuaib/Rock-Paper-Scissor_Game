@@ -17,3 +17,4 @@ Good Luck!
 About rock paper scissor game: Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V).
 A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper").
 
+![alt text](https://github.com/QaziShuaib/Rock-Paper-Scissor_Game/blob/main/266-2667226_rock-paper-scissors-rules-hd-png-download.png?raw=true)
